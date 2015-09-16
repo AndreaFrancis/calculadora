@@ -15,7 +15,8 @@ namespace Calculadora
             int a = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese el segundo numero");
             int b = int.Parse(Console.ReadLine());
-
+            int suma = a + b;
+            Console.WriteLine("La suma es:"+ suma);
             Console.ReadKey();
         }
     }
