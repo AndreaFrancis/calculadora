@@ -15,7 +15,8 @@ namespace Calculadora
             int a = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese el segundo numero");
             int b = int.Parse(Console.ReadLine());
-
+            int resta = a - b;
+            Console.WriteLine("La resta es: "+ resta);
             Console.ReadKey();
         }
     }
