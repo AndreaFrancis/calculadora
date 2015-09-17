@@ -1,6 +1,0 @@
-D:\cursogit\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
-D:\cursogit\Calculadora\Calculadora\bin\Debug\Calculadora.exe
-D:\cursogit\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
-D:\cursogit\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
-D:\cursogit\Calculadora\Calculadora\obj\Debug\Calculadora.exe
-D:\cursogit\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
