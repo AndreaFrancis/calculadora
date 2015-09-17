@@ -15,13 +15,10 @@ namespace Calculadora
             int a = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese el segundo numero");
             int b = int.Parse(Console.ReadLine());
-<<<<<<< HEAD
             int resta = a - b;
             Console.WriteLine("La resta es: "+ resta);
-=======
             int suma = a + b;
             Console.WriteLine("La suma es:"+ suma);
->>>>>>> suma
             Console.ReadKey();
         }
     }
