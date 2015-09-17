@@ -18,7 +18,7 @@ namespace Calculadora
             int resta = a - b;
             Console.WriteLine("La resta es: "+ resta);
             int suma = a + b;
-            Console.WriteLine("La suma es:"+ suma);
+Ssdslgknlgnlkn            Console.WriteLine("La suma es:"+ suma);
             Console.ReadKey();
         }
     }
